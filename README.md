@@ -2,7 +2,9 @@
        <img  src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExamp2N2Q1djNobnhvbTd0aDBxNndmY3NrNXpuaGZyanJta3pqbmRoMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/qUABlXKRRvfQobzIXp/giphy.gif" width="50%"/>
 </div>
 
-<h1 align="center">Hi 👋, I'm [![Static Badge](https://img.shields.io/badge/NHAN%20TRAN%20-%20green)] aka [![Static Badge](https://img.shields.io/badge/BROWN-brown)]</h1>
+<h1 align="center">
+Hi 👋, I'm <img alt="Static Badge" src="https://img.shields.io/badge/NHAN%20TRAN%20-%20green"> aka <img alt="Static Badge" src="https://img.shields.io/badge/BROWN%20-brown">
+</h1>
 <h2 align="center">I'm from 🇻🇳</h2>
 <h3 align="center">A student majoring in Software Engineering</h3> <br>
 
