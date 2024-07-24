@@ -10,6 +10,7 @@ I'm from <img alt="Static Badge" width="25" src="https://upload.wikimedia.org/wi
    
 ### Contact me: 📡              [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thanhnhantran002@gmail.com)              [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/trthnhan)
 
+#
 
 <p align="center">
   <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=tranthanhnhan2604&show_icons=true&theme=vision-friendly-dark">
