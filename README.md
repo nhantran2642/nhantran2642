@@ -4,7 +4,7 @@
 
 <div align="center">
 <h1>Hi 👋, I'm <img alt="Static Badge" width="100" src="https://img.shields.io/badge/NHAN%20TRAN%20-%20green"> aka <img alt="Static Badge" width="70" src="https://img.shields.io/badge/BROWN%20-brown"></h1>
-I'm from <img alt="Static Badge" width="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Vietnam.svg/800px-Flag_of_Vietnam.svg.png">                            </div>
+I'm from <img alt="Static Badge" width="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Vietnam.svg/800px-Flag_of_Vietnam.svg.png">                            </div>
 
 
    
