@@ -7,8 +7,9 @@ Hi 👋, I'm <img alt="Static Badge" width="100" src="https://img.shields.io/bad
 </h1>
 <h2 align="center">I'm from <img alt="Static Badge" width="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Vietnam.svg/800px-Flag_of_Vietnam.svg.png"></h2>
 
-<div align="center">
-       <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExamp2N2Q1djNobnhvbTd0aDBxNndmY3NrNXpuaGZyanJta3pqbmRoMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/qUABlXKRRvfQobzIXp/giphy.gif" width="200"/>
-</div>
    
-### Contact me: 📡     [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](thanhnhantran002@gmail.com)
+### Contact me: 📡     
+
+[![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](thanhnhantran002@gmail.com)
+
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/trthnhan)
