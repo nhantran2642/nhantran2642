@@ -10,6 +10,6 @@ Hi 👋, I'm <img alt="Static Badge" width="100" src="https://img.shields.io/bad
    
 ### Contact me: 📡     
 
-[![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mail.google.com)
+[![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com)
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/trthnhan)
