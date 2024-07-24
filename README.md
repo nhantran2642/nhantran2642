@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">
-Hi 👋, I'm <img alt="Static Badge" src="https://img.shields.io/badge/NHAN%20TRAN%20-%20green"> aka <img alt="Static Badge" src="https://img.shields.io/badge/BROWN%20-brown">
+Hi 👋, I'm <img alt="Static Badge" width="60" src="https://img.shields.io/badge/NHAN%20TRAN%20-%20green"> aka <img alt="Static Badge" width="60" src="https://img.shields.io/badge/BROWN%20-brown">
 </h1>
 <h2 align="center">I'm from <img alt="Static Badge" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Vietnam.svg/800px-Flag_of_Vietnam.svg.png"></h2>
 <h3 align="center">A student majoring in Software Engineering</h3> <br>
