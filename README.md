@@ -3,8 +3,8 @@
 </div>
 
 <div align="center">
-<h1>Hi 👋, I'm <img alt="Static Badge" width="100" src="https://img.shields.io/badge/NHAN%20TRAN%20-%20green"> aka <img alt="Static Badge" width="70" src="https://img.shields.io/badge/BROWN%20-brown"></h1>
-I'm from <img alt="Static Badge" width="15" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Vietnam.svg/800px-Flag_of_Vietnam.svg.png">                            </div>
+       [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=40&duration=3000&pause=1000&color=00F730&width=600&height=73&lines=Hi%2C+I'm+Nhan+Tran;You+can+call+me+Brown;I'm+Software+Engineer)](https://git.io/typing-svg)
+</div>
 
 
    
