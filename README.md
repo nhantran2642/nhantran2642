@@ -6,10 +6,12 @@
        <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=40&duration=3000&pause=1000&color=00F730&center=true&vCenter=true&width=600&height=73&lines=Hi%2C+I'm+Nhan+Tran;You+can+call+me+Brown;I'm+from+Vietnam" alt="Typing SVG" /></a>
 </div>
 
+#
 
-   
 ### Contact me: 📡              
 [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thanhnhantran002@gmail.com)              [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/trthnhan)
+
+#
 
 ### Languages and Tools:
 <p align="left">
@@ -32,14 +34,20 @@
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="bootstrap" width="40" height="40">
 </p>
 
+#
+
 <p align="center">
   <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=tranthanhnhan2604&show_icons=true&theme=vision-friendly-dark">
   <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tranthanhnhan2604&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
 </p>
 
+#
+
 <div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=tranthanhnhan2604&style=for-the-badge&color=orange" alt=""/>
 </div>
+
+#
 
 <p align="center">
  <img width="1000" src="assets/github-snake.svg" alt="snake"/>
