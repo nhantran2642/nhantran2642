@@ -40,7 +40,7 @@
 #
 
 <p align="center">
-  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tranthanhnhan2604&hide=hack&size_weight=0.05&count_weight=0.5&layout=compact&theme=tokyonight">
+  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nhantran2642&hide=hack&size_weight=0.05&count_weight=0.5&layout=compact&theme=tokyonight">
 </p>
 
 #
